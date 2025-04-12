@@ -35,6 +35,4 @@ Projekte sowohl auf **Raspberry Pi** als auch auf **Windows** zu entwickeln und 
 ## Hinweise:
 - Alle Projekte sind zur freien Nutzung und zum Austausch gedacht – **übernehme jedoch keinen Support**.
 - **Kommentare sind willkommen!** Falls du Feedback hast oder Fragen hast, hinterlasse gerne einen Kommentar.
-- Bitte beachte, dass diese Projekte in erster Linie zum **Lernen und Austauschen** gedacht sind.
-
- Projekte in erster Linie für den Austausch und das Lernen gedacht sind.
+- Bitte beachte, dass diese Projekte in erster Linie zum **Lernen und Austauschen** gedacht sind
