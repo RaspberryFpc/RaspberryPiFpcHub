@@ -24,8 +24,7 @@ Die Projekte umfassen verschiedene Softwarelösungen, die auf **Raspberry Pi** o
 
 Beispielprojekte:
 - **Audioübertragung**: Ein RTP-Empfängerprogramm zur Audioübertragung über UDP.
-- **GPIO-Steuerung**: Eine Unit zur einfachen Steuerung der GPIO-Pins auf dem Raspberry Pi über den Kernel
-- und somit für Pi4 als auch für Pi5 geeignet (coming soon).
+- **GPIO-Steuerung**: Eine Unit zur einfachen Steuerung der GPIO-Pins auf dem Raspberry Pi über den Kernel und damit für Pi4 und Pi5 geeignet.
 
 ## Entwicklungsumgebungen
 Ich arbeite hauptsächlich mit **Codetyphon** als Entwicklungsumgebung für **Free Pascal**.  
