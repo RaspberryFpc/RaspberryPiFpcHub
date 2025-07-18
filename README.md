@@ -32,6 +32,6 @@ Codetyphon bietet eine vollständige IDE für die Programmierung auf verschieden
 Projekte sowohl auf **Raspberry Pi** als auch auf **Windows** zu entwickeln und auszuführen.
 
 ## Hinweise:
-- Alle Projekte sind zur freien Nutzung und zum Austausch gedacht – **übernehme jedoch keinen Support**.
+- Alle Projekte sind zur freien Nutzung und zum Austausch gedacht.
 - **Kommentare sind willkommen!** Falls du Feedback hast oder Fragen hast, hinterlasse gerne einen Kommentar.
-- Bitte beachte, dass diese Projekte in erster Linie zum **Lernen und Austauschen** gedacht sind
+
