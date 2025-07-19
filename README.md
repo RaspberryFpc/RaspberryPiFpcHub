@@ -40,11 +40,6 @@ Codetyphon provides a complete IDE supporting development on multiple platforms,
 - **Comments and feedback are welcome!** If you have suggestions or questions, feel free to leave a comment.
 
 
-
-
-
-
-
 # RaspberryPiFpcHub
 Willkommen auf meinem GitHub-Repository!  
 Hier teile ich meine Projekte, die ich mit **Free Pascal (FPC)** unter **Codetyphon** für **Raspberry Pi** und **Windows** programmiere.
