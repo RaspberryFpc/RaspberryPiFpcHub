@@ -10,7 +10,7 @@ My main platforms are **Raspberry Pi** for hardware-related projects and **Windo
 During my professional career in the industry, I worked extensively with **Siemens Simatic** systems, most recently using the **TIA Portal**, and gained valuable hands-on experience **directly in the field with customers**.
 
 My goal is to share my **programs and code snippets** so that others can benefit from them and further develop them.  
-**Feedback is welcome**, but please note that I do **not provide formal support** for the projects shared here.
+**Feedback is welcome**.
 
 ### My Programming Languages & Tools
 
