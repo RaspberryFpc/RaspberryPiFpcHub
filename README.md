@@ -1,4 +1,4 @@
-# RaspberryPiFpcHub
+# RaspberryFpc
 
 Welcome to my GitHub repository!  
 Here I share my projects developed with **Free Pascal (FPC)** using **Codetyphon**, targeting both **Raspberry Pi** and **Windows** platforms.
